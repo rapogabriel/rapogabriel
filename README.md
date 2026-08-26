@@ -1,5 +1,3 @@
-<h1 align="center">Olá! 👋</h1>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software;Entusiasta+em+emula%C3%A7%C3%A3o" />
 </div>
