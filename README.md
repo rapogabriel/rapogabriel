@@ -14,13 +14,15 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Haskell-%235e5086.svg?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/wakatime?username=a3f71a9f-41e4-41d3-833f-a87f305cac4e&langs_count=6&display_format=percent&theme=shadow_blue&v=2"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/wakatime?username=a3f71a9f-41e4-41d3-833f-a87f305cac4e&langs_count=6&display_format=percent&theme=shadow_blue&v=3"/>
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=rapogabriel&layout=compact&langs_count=4&hide_values=true&theme=shadow_blue"/>
 </div>
 
