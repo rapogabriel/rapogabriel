@@ -5,6 +5,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de Ciência da Computação
+- Desenvolvedor da empresa júnior Voluta S.D.
 - 💻 Ambiente de desenvolvimento principal: **Linux**
 - 🎮 Nas horas vagas, curto explorar o universo do retro gaming e emulação.
 
