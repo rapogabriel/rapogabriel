@@ -22,7 +22,7 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/wakatime?username=a3f71a9f-41e4-41d3-833f-a87f305cac4e&langs_count=6&display_format=percent&theme=shadow_blue&v=3"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/wakatime?username=a3f71a9f-41e4-41d3-833f-a87f305cac4e&langs_count=6&display_format=percent&theme=shadow_blue&v=4"/>
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=rapogabriel&layout=compact&langs_count=4&hide_values=true&theme=shadow_blue"/>
 </div>
 
