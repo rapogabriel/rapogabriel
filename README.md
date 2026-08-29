@@ -5,7 +5,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de Ciência da Computação
-- Desenvolvedor da empresa júnior Voluta S.D.
+- 🐷 Desenvolvedor da empresa júnior Voluta S.D.
 - 💻 Ambiente de desenvolvimento principal: **Linux**
 - 🎮 Nas horas vagas, curto explorar o universo do retro gaming e emulação.
 
@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Haskell-%235e5086.svg?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
